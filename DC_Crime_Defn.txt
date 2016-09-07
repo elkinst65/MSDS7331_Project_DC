@@ -1,0 +1,58 @@
+Homicide:   Killing of another purposely, or otherwise, with malice aforethought.
+
+Sex Abuse:   Engaging in or causing another person to submit to a sexual act by force, 
+				threat or reasonable fear, involuntary impairment of the personâ€™s ability 
+				to appraise or control his or her conduct, rendering that other person 
+				unconscious or under conditions wherein a reasonable person would not believe 
+				that consent was freely and knowingly given. The most serious sex abuse 
+				categories are included in the reports of DC Code Index Violent Crimes: 
+				Sexual Assault and on the Crime Mapping Application. The figures reported 
+				in this category include First Degree Sex Abuse, Second Degree Sex Abuse, 
+				Attempted First Degree Sex Abuse and Assault with Intent to Commit First 
+				Degree Sex Abuse against adults. Data in this format is available online 
+				from 2011.
+
+Robbery:   The taking of anything of value from another person by force, violence or fear. 
+
+Assault Dangerous Weapon (ADW)/Aggravated Assault:   Knowingly or purposely causing serious 
+				bodily injury, threatening to do so, or knowingly engaging in conduct that 
+				creates a grave risk of serious bodily injury to another person.
+
+Arson:   The malicious burning, or attempt to burn, any structure, vessel, vehicle, railroad 
+				car or property of another.
+
+Burglary:   The unlawful entry of a structure, vessel, watercraft, railroad car or yard where 
+			chattels are deposited with the intent to commit any criminal offense 
+•Burglary-1:  Burglary of a dwelling or other building that is occupied at the time of the event.
+•Burglary-1 Armed:  Committing the act of burglary by use of, or threat of, any dangerous or deadly weapon.
+•Burglary-2:  Burglary of a dwelling or other building that is not occupied at the time of the event.
+
+Motor Vehicle Theft:   The theft of any self-propelled, motor driven vehicle that is primarily intended to transport persons and property on a highway. 
+
+Theft:   Wrongfully obtaining or using the property of another with the intent to deprive the owner of the value thereof. 
+•Theft-1:  Theft of another's property valued at $1000 or more.
+•Theft-2 Armed:  Theft of another's property valued at less than $1000.
+
+Theft F/Auto:   of items from within a vehicle, excluding motor vehicle parts and accessories. 
+
+Theft/Other:   A broad inclusion of Theft offenses including embezzlement, theft of services 
+			and fraud/false pretenses. The Theft/Other category excludes theft of items from 
+			a motor vehicle or the motor vehicle itself. 
+
+Robbery - Pickpocket:   A Robbery committed by the sudden and stealthy seizure of a wallet or 
+	other item from the body of a person. Since no overt force is used this offense will be 
+	classified as a theft. 
+
+Robbery - Snatch:   A Robbery committed by the sudden and stealthy seizure of a purse, 
+	wallet or other item from another person's possession, in his/her presence and without 
+	the use of overt force. Since no force is used this offense will be classified as a theft. 
+
+Other Definitions 
+•CCN:  Criminal Complaint Number: a unique identifier assigned by MPD to each incident report. 
+		Other law enforcement agencies also request and use CCNs for their reports.
+•Report Date:  The date the offense was reported to MPD, which may be later than the date the 
+		offense actually occurred. 
+•Shift:  MPD member's tour of duty associated with the time the report was taken. 
+		Day shift generally runs between 0700 and 1500 (military time); 
+		evening shift between 1500 and 2300, and midnight shift between 2300 and 0700. 
+		If the shift is unknown, the field will say "UNK".

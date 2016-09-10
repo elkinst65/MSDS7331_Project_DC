@@ -11,9 +11,8 @@ http://crimemap.dc.gov/CrimeMapSearch.aspx#tabs-GeoOther
 
 |Name|Initial|Lab 1|Mini-Lab|Lab 2|Lab 3|
 |----|:-----:|:---:|:------:|:---:|:---:|
-|Sarah Beg||||||
-|Ben Brock|X||X|||
-|Tom Elkins|X|X|X|X||
-|Sanjay Jagarlamudi|||X|X|X|
-|Austin Kelly||X|||X|
-|Murali Parthasarathy||X||X|X|
+|Matt Baldree||X|X|X|X|
+|Ben Brock|X||X|X|X|
+|Tom Elkins|X|X|X|X|X|
+|Austin Kelly||X|X|X|X|
+|Murali Parthasarathy||X||||

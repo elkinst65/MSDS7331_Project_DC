@@ -1,0 +1,13 @@
+import plotly.plotly as py
+import plotly.graph_objs as go
+day = [5,528,925,1310,639,77,4999,5096]
+midnight = [4,998,1145,950,1464,104,4146,7169]
+evening = [9,864,464,160,534,1249,94,1825,1737]
+data = [
+    go.Heatmap(
+        z=[day, midnight, evening],
+        x=['THEFT/OTHER', 'THEFT /AUTO', 'BURGARLY', 'ASSAULT W/DANGEROUS WEAPON', 'ROBBERY','MOTOR VEHICLE THEFT','HOMICIDE','SEX ABUSE','ARSON'],
+        y=['DAY', 'EVENING', 'MIDNIGHT']
+    )
+]
+py.iplot(data, filename='labelled-heatmap')

@@ -1,0 +1,53 @@
+jan = [1150,1303,431]
+feb = [750,875,270]
+march = [ 922,1147,415]
+Apr = [1088,1286,555]
+may = [1297,1430,62]
+jun = [1384,1434,602]
+july = [1383,1434,602] 
+aug = [1277,1343,773]
+sept = [1046,1383,647]
+oct1 = [1170,1449,661]
+nov = [ 982,1383,606]
+dec = [1095,1457,662]
+
+data = []
+data.append(jan)
+data.append(feb)
+data.append(march)
+data.append(Apr)
+data.append(may)
+data.append(jun)
+data.append(july)
+data.append(aug)
+data.append(sept)
+data.append(oct1)
+data.append(nov)
+data.append(dec)
+
+import plotly.plotly as py
+import plotly.tools as tls
+import cufflinks as cf
+import pandas as pd
+import numpy as np
+
+cf.set_config_file(offline=False, world_readable=True, theme='ggplot')
+
+#df = pd.DataFrame(np.random.rand(10, 3), columns=['A', 'B', 'C' ])
+df = pd.DataFrame(data, columns=['DAY', 'MIDNIGHT', 'EVENING' ])
+
+df.iplot(kind='bar', filename='grouped-bar-chart')
+
+
+import plotly.plotly as py
+import cufflinks as cf
+import pandas as pd
+import numpy as np
+
+cf.set_config_file(offline=False, world_readable=True, theme='ggplot')
+
+#df = pd.DataFrame(np.random.rand(10, 4), columns=['A', 'B', 'C', 'D'])
+df = pd.DataFrame(data, columns=['DAY', 'MIDNIGHT', 'EVENING' ])
+df.iplot(kind='bar', barmode='stack', filename=' stacked-bar-chart')
+
+
